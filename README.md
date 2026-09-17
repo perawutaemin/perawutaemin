@@ -1,18 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=200&section=header&text=Peerawut%20Eiamin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20·%20Data%20Science%20@%20Burapha%20University&descSize=16&descAlignY=58" alt="header" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=680&lines=Time-series+forecasting+for+public+health;Thai+speech+and+mispronunciation+detection;Computer+vision+for+agriculture;Reproducible+ML+evaluation+protocols" alt="typing" />
-</div>
+# Hi, I'm Peerawut Eiamin
 
-<br />
+**AI Researcher · Data Science @ Burapha University**
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=79C0FF&center=true&vCenter=true&width=640&lines=Time-series+forecasting+for+public+health;Thai+speech+and+mispronunciation+detection;Computer+vision+for+agriculture;Reproducible+ML+evaluation+protocols" alt="typing headline" />
 
-[![Location](https://img.shields.io/badge/Thailand-0D1117?style=for-the-badge&logo=googlemaps&logoColor=79C0FF)](https://github.com/perawutaemin)
-[![University](https://img.shields.io/badge/Burapha%20University-0D1117?style=for-the-badge&logo=google-scholar&logoColor=79C0FF)](https://www.buu.ac.th)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--6775--7290-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0008-6775-7290)
+[![Thailand](https://img.shields.io/badge/Thailand-161B22?style=for-the-badge&logo=googlemaps&logoColor=79C0FF)](https://github.com/perawutaemin)
+[![Burapha University](https://img.shields.io/badge/Burapha%20University-161B22?style=for-the-badge&logo=google-scholar&logoColor=79C0FF)](https://www.buu.ac.th)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--6775--7290-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6775-7290)
 [![Profile views](https://komarev.com/ghpvc/?username=perawutaemin&label=Profile%20views&color=1F6FEB&style=for-the-badge)](https://github.com/perawutaemin)
 
 </div>
@@ -35,15 +31,6 @@ I design **reproducible machine-learning evaluation protocols** for problems tha
 
 ## Research focus
 
-```text
-Public health forecasting   Thai speech / MDD   Agricultural CV
-        │                         │                    │
-        ▼                         ▼                    ▼
-  SARIMA · XGBoost          ASR front-ends         YOLO · TF
-  cross-country lags        phoneme alignment      mobile deploy
-  weather covariates        pooled calibration     leaf disease
-```
-
 | Area | What I actually do |
 | --- | --- |
 | **Time-series / epidemiology** | Walk-forward protocols, lagged covariates, SARIMA vs gradient boosting |
@@ -55,22 +42,13 @@ Public health forecasting   Thai speech / MDD   Agricultural CV
 
 ## Featured research
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Dengue forecasting in Thailand
 
 One-year-ahead **weekly dengue** forecasts comparing **SARIMA** with four **XGBoost** setups. Partner-country case lags and weather features are screened, pruned by gain, then frozen before a held-out 2024 production year.
 
 **XGBoost South Korea** (lag-50 cases + precipitation) reached **RMSE 1,622 / MAE 1,293**, beating SARIMA and Thailand self-lag.
 
-[GitHub](https://github.com/perawutaemin/Dengue-Forecasting-Conf) · ICTC 2026 manuscript
-
-`Python` `XGBoost` `SARIMA` `walk-forward`
-
-</td>
-<td width="50%" valign="top">
+[Repository](https://github.com/perawutaemin/Dengue-Forecasting-Conf) · ICTC 2026 manuscript
 
 ### Two-stage Thai MDD
 
@@ -78,27 +56,13 @@ A two-stage benchmark for **phoneme-level mispronunciation detection**. Stage 1 
 
 Ranking is **metric-dependent** — pick the front-end for the downstream task, not the leaderboard WER.
 
-[GitHub](https://github.com/perawutaemin/Two-Stage-Thai-MDD-Conf)
-
-`wav2vec2` `Whisper` `PyThaiNLP` `PER`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[Repository](https://github.com/perawutaemin/Two-Stage-Thai-MDD-Conf)
 
 ### Durian leaf disease on mobile
 
-Comparative study of **YOLOv5**, **YOLOv8**, and **TensorFlow** for detecting leaf spot, leaf blight, and Phytophthora fruit rot in the Ultralytics Hub mobile app.
-
-YOLOv5 led at **93.33%** accuracy vs 80% (YOLOv8) and 63.33% (TensorFlow).
+Comparative study of **YOLOv5**, **YOLOv8**, and **TensorFlow** for detecting leaf spot, leaf blight, and Phytophthora fruit rot in the Ultralytics Hub mobile app. YOLOv5 led at **93.33%** accuracy vs 80% (YOLOv8) and 63.33% (TensorFlow).
 
 [Paper](https://doi.org/10.3233/faia241595) · EJC 2024 / FAIA 399
-
-`YOLO` `TensorFlow` `mobile CV`
-
-</td>
-<td width="50%" valign="top">
 
 ### How I like to work
 
@@ -106,10 +70,6 @@ YOLOv5 led at **93.33%** accuracy vs 80% (YOLOv8) and 63.33% (TensorFlow).
 - Screen and prune on history, **never** on the test year
 - Report the metric that matches the decision, not only the flattering one
 - Ship code, tables, and figures so others can rerun the comparison
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -122,12 +82,6 @@ YOLOv5 led at **93.33%** accuracy vs 80% (YOLOv8) and 63.33% (TensorFlow).
 ---
 
 ## Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda,jupyter,linux,docker,git,github,vscode" alt="tech stack" />
-</div>
-
-<br />
 
 **Machine learning**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -155,12 +109,8 @@ YOLOv5 led at **93.33%** accuracy vs 80% (YOLOv8) and 63.33% (TensorFlow).
 ## GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=perawutaemin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=79C0FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perawutaemin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perawutaemin&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=79C0FF&currStreakLabel=79C0FF" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=perawutaemin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perawutaemin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 ---
@@ -169,16 +119,10 @@ YOLOv5 led at **93.33%** accuracy vs 80% (YOLOv8) and 63.33% (TensorFlow).
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-perawutaemin-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perawutaemin)
+[![GitHub](https://img.shields.io/badge/GitHub-perawutaemin-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perawutaemin)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--6775--7290-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6775-7290)
-[![DOI](https://img.shields.io/badge/DOI-10.3233%2Ffaia241595-0D1117?style=for-the-badge&logo=doi&logoColor=79C0FF)](https://doi.org/10.3233/faia241595)
+[![DOI](https://img.shields.io/badge/DOI-10.3233%2Ffaia241595-161B22?style=for-the-badge&logo=doi&logoColor=79C0FF)](https://doi.org/10.3233/faia241595)
 
-</div>
+*Thanks for stopping by — if you work on forecasting, Thai speech, or applied CV, let’s compare notes.*
 
-<p align="center">
-  <em>Thanks for stopping by — if you work on forecasting, Thai speech, or applied CV, let’s compare notes.</em>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" alt="footer" />
 </div>
