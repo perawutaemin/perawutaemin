@@ -1,23 +1,23 @@
 <div align="center">
 
-# Peerawut Eiamin
+# Hi, I'm Peerawut 👋
 
-Master's student in Data Science · Thailand
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1500&color=6366F1&center=true&vCenter=true&width=500&lines=Master's+student+in+Data+Science;Curious+about+data+and+AI;Always+learning+something+new" alt="intro" />
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--6775--7290-555?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6775-7290)
-[![Profile views](https://komarev.com/ghpvc/?username=perawutaemin&label=views&color=555&style=flat-square)](https://github.com/perawutaemin)
+[![Thailand](https://img.shields.io/badge/📍_Thailand-6366F1?style=flat-square)](https://github.com/perawutaemin)
+[![M.Sc. Student](https://img.shields.io/badge/🎓_M.Sc._Student-EC4899?style=flat-square)](https://github.com/perawutaemin)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6775-7290)
+[![Profile views](https://komarev.com/ghpvc/?username=perawutaemin&label=views&color=F59E0B&style=flat-square)](https://github.com/perawutaemin)
 
 </div>
 
 ---
 
-### About
+### ✨ About
 
-สวัสดีครับ ผม **พีรวุฒิ เอี่ยมอินทร์** นักศึกษาปริญญาโท สาขา Data Science มหาวิทยาลัยบูรพา
+I'm a master's student in Data Science who enjoys working with data and AI, and exploring how they can be useful in the real world. I like learning new things and sharing what I find along the way.
 
-I'm a master's student interested in data and AI, and how they can be used in the real world. I enjoy learning new things and sharing what I find along the way.
-
-### Publications
+### 📝 Publications
 
 - **Eiamin, P.**, Bouvry, P., Chophuk, P., & Methiyothin, T. (2026). *Forecasting Dengue Fever in Thailand Using Cross-Country Case Correlation and Weather Features.* ICTC 2026.
 - **Eiamin, P.**, Methiyothin, T., & Chophuk, P. (2026). *A Two-Stage Comparative Study of Thai-Suitable Speech Models for Phoneme-Level Mispronunciation Detection.*
@@ -26,5 +26,5 @@ I'm a master's student interested in data and AI, and how they can be used in th
 ---
 
 <div align="center">
-<sub>Thanks for stopping by.</sub>
+<sub>Thanks for stopping by 🌱</sub>
 </div>
