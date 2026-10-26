@@ -1,13 +1,13 @@
+<img src="assets/banner.svg" width="100%" alt="Peerawut Eiamin" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:DB2777&height=140&text=Peerawut%20Eiamin&fontSize=44&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Peerawut Eiamin" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=22D3EE&center=true&vCenter=true&width=500&lines=Master's+student+in+Data+Science;Curious+about+data+and+AI;Always+learning+something+new" alt="intro" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1500&color=6366F1&center=true&vCenter=true&width=500&lines=Master's+student+in+Data+Science;Curious+about+data+and+AI;Always+learning+something+new" alt="intro" />
-
-[![Thailand](https://img.shields.io/badge/Thailand-4F46E5?style=flat-square)](https://github.com/perawutaemin)
-[![M.Sc. Student](https://img.shields.io/badge/M.Sc._Student-DB2777?style=flat-square)](https://github.com/perawutaemin)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6775-7290)
-[![Profile views](https://komarev.com/ghpvc/?username=perawutaemin&label=views&color=F59E0B&style=flat-square)](https://github.com/perawutaemin)
+[![Thailand](https://img.shields.io/badge/Thailand-0D1117?style=for-the-badge&logo=googlemaps&logoColor=22D3EE)](https://github.com/perawutaemin)
+[![M.Sc. Student](https://img.shields.io/badge/M.Sc._Student-0D1117?style=for-the-badge&logo=bookstack&logoColor=818CF8)](https://github.com/perawutaemin)
+[![ORCID](https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0008-6775-7290)
+[![Profile views](https://komarev.com/ghpvc/?username=perawutaemin&label=views&color=0D1117&style=for-the-badge)](https://github.com/perawutaemin)
 
 </div>
 
@@ -31,24 +31,7 @@ I'm a master's student in Data Science who enjoys working with data and AI, and 
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py" alt="py" />
-<img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" />
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" />
-<img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" />
-<img src="https://skillicons.dev/icons?i=opencv" alt="opencv" />
-<img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" />
-<img src="assets/yolo.svg" alt="YOLO" />
-<img src="https://skillicons.dev/icons?i=ts" alt="ts" />
-<img src="https://skillicons.dev/icons?i=js" alt="js" />
-<img src="https://skillicons.dev/icons?i=react" alt="react" />
-<img src="https://skillicons.dev/icons?i=vue" alt="vue" />
-<img src="https://skillicons.dev/icons?i=postgres" alt="postgres" />
-<img src="https://skillicons.dev/icons?i=redis" alt="redis" />
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" />
-<img src="https://skillicons.dev/icons?i=git" alt="git" />
-<img src="https://skillicons.dev/icons?i=github" alt="github" />
-<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
-<img src="https://skillicons.dev/icons?i=linux" alt="linux" />
+<p align="left"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="44" alt="py" /><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="44" alt="pytorch" /><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="44" alt="tensorflow" /><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="44" alt="sklearn" /><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="44" alt="opencv" /><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="44" alt="anaconda" /><img src="assets/yolo.svg" width="44" alt="YOLO" /><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="44" alt="ts" /><img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" alt="js" /><img src="https://skillicons.dev/icons?i=react&theme=dark" width="44" alt="react" /><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="44" alt="vue" /><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="44" alt="postgres" /><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="44" alt="redis" /><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="44" alt="docker" /><img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" alt="git" /><img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" alt="github" /><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="44" alt="vscode" /><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" alt="linux" /></p>
 
 ---
 
