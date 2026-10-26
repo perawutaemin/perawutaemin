@@ -31,7 +31,24 @@ I'm a master's student in Data Science who enjoys working with data and AI, and 
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda,ts,js,react,vue,postgres,redis,docker,git,github,vscode,linux&perline=17" alt="Tech stack" /><img src="assets/yolo.svg" alt="YOLO" />
+<img src="https://skillicons.dev/icons?i=py" alt="py" />
+<img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" />
+<img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" />
+<img src="https://skillicons.dev/icons?i=opencv" alt="opencv" />
+<img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" />
+<img src="assets/yolo.svg" alt="YOLO" />
+<img src="https://skillicons.dev/icons?i=ts" alt="ts" />
+<img src="https://skillicons.dev/icons?i=js" alt="js" />
+<img src="https://skillicons.dev/icons?i=react" alt="react" />
+<img src="https://skillicons.dev/icons?i=vue" alt="vue" />
+<img src="https://skillicons.dev/icons?i=postgres" alt="postgres" />
+<img src="https://skillicons.dev/icons?i=redis" alt="redis" />
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" />
+<img src="https://skillicons.dev/icons?i=git" alt="git" />
+<img src="https://skillicons.dev/icons?i=github" alt="github" />
+<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
+<img src="https://skillicons.dev/icons?i=linux" alt="linux" />
 
 ---
 
