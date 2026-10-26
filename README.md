@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Peerawut 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=180&section=header&text=Peerawut%20Eiamin&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Peerawut Eiamin" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1500&color=6366F1&center=true&vCenter=true&width=500&lines=Master's+student+in+Data+Science;Curious+about+data+and+AI;Always+learning+something+new" alt="intro" />
 
