@@ -17,17 +17,19 @@
 
 I'm a master's student in Data Science who enjoys working with data and AI, and exploring how they can be useful in the real world. I like learning new things and sharing what I find along the way.
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda,git,github,vscode,linux&perline=10" alt="Tech stack" />
-</p>
-
 ### 📝 Publications
 
 - **Eiamin, P.**, Bouvry, P., Chophuk, P., & Methiyothin, T. (2026). *Forecasting Dengue Fever in Thailand Using Cross-Country Case Correlation and Weather Features.* ICTC 2026.
 - **Eiamin, P.**, Methiyothin, T., & Chophuk, P. (2026). *A Two-Stage Comparative Study of Thai-Suitable Speech Models for Phoneme-Level Mispronunciation Detection.* JCSSE 2026. IEEE. [DOI](https://doi.org/10.1109/jcsse68839.2026.11597078)
 - **Eiamin, P.**, Janoum, P., Puangmanee, J., & Chophuk, P. (2024). *Comparative Evaluation of YOLOv5, YOLOv8, and TensorFlow for Optimal Model Selection in Durian Leaf Disease Detection via Mobile Application.* FAIA 399, 401–411. IOS Press. [DOI](https://doi.org/10.3233/faia241595)
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda" alt="AI and ML tools" /><img src="assets/yolo.svg" alt="YOLO" /><br />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,postgres,redis,docker" alt="Web and data tools" /><br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Dev tools" />
+</p>
 
 ---
 
