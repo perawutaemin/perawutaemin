@@ -1,6 +1,6 @@
-<img src="assets/banner.svg" width="100%" alt="Peerawut Eiamin" />
-
 <div align="center">
+
+# Peerawut Eiamin
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=22D3EE&center=true&vCenter=true&width=500&lines=Master's+student+in+Data+Science;Curious+about+data+and+AI;Always+learning+something+new" alt="intro" />
 
