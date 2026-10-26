@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=22D3EE&center=true&vCenter=true&width=500&lines=Master's+student+in+Data+Science;Curious+about+data+and+AI;Always+learning+something+new" alt="intro" />
-
 [![Thailand](https://img.shields.io/badge/Thailand-0D1117?style=for-the-badge&logo=googlemaps&logoColor=22D3EE)](https://github.com/perawutaemin)
 [![M.Sc. Student](https://img.shields.io/badge/M.Sc._Student-0D1117?style=for-the-badge&logo=bookstack&logoColor=818CF8)](https://github.com/perawutaemin)
 [![ORCID](https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0008-6775-7290)

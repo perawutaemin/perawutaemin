@@ -1,48 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0D1117"/>
-      <stop offset="1" stop-color="#161B22"/>
-    </linearGradient>
-    <linearGradient id="title" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#22D3EE"/>
-      <stop offset="0.33" stop-color="#818CF8"/>
-      <stop offset="0.66" stop-color="#F472B6"/>
-      <stop offset="1" stop-color="#22D3EE"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="-1200 0" to="0 0" dur="6s" repeatCount="indefinite"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#F472B6"/>
     </linearGradient>
-    <radialGradient id="orbA"><stop offset="0" stop-color="#6366F1" stop-opacity="0.55"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
-    <radialGradient id="orbB"><stop offset="0" stop-color="#EC4899" stop-opacity="0.45"/><stop offset="1" stop-color="#EC4899" stop-opacity="0"/></radialGradient>
-    <radialGradient id="orbC"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.35"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
-    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.2" fill="#30363D"/>
-    </pattern>
-    <clipPath id="clip"><rect width="1200" height="260" rx="18"/></clipPath>
   </defs>
-
-  <g clip-path="url(#clip)">
-    <rect width="1200" height="260" fill="url(#bg)"/>
-    <rect width="1200" height="260" fill="url(#dots)"/>
-
-    <circle cx="180" cy="60" r="220" fill="url(#orbA)">
-      <animate attributeName="cx" values="180;300;180" dur="12s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="60;120;60" dur="12s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1020" cy="220" r="240" fill="url(#orbB)">
-      <animate attributeName="cx" values="1020;880;1020" dur="14s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="220;150;220" dur="14s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="640" cy="300" r="200" fill="url(#orbC)">
-      <animate attributeName="cx" values="640;520;760;640" dur="16s" repeatCount="indefinite"/>
-    </circle>
-
-    <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="1" fill="url(#title)">Peerawut Eiamin</text>
-    <text x="600" y="178" text-anchor="middle" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="22" fill="#8B949E" letter-spacing="3">MASTER'S STUDENT  ·  DATA SCIENCE</text>
-    <rect x="565" y="200" width="70" height="3" rx="1.5" fill="#818CF8">
-      <animate attributeName="width" values="20;70;20" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="x" values="590;565;590" dur="3s" repeatCount="indefinite"/>
-    </rect>
-
-    <rect x="0.5" y="0.5" width="1199" height="259" rx="18" fill="none" stroke="#30363D"/>
-  </g>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="16" fill="#0D1117" stroke="#30363D"/>
+  <text x="600" y="122" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="1" fill="url(#title)">Peerawut Eiamin</text>
+  <text x="600" y="172" text-anchor="middle" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="21" fill="#8B949E" letter-spacing="3">MASTER'S STUDENT  ·  DATA SCIENCE</text>
 </svg>
