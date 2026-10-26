@@ -17,6 +17,12 @@
 
 I'm a master's student in Data Science who enjoys working with data and AI, and exploring how they can be useful in the real world. I like learning new things and sharing what I find along the way.
 
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda,git,github,vscode,linux&perline=10" alt="Tech stack" />
+</p>
+
 ### 📝 Publications
 
 - **Eiamin, P.**, Bouvry, P., Chophuk, P., & Methiyothin, T. (2026). *Forecasting Dengue Fever in Thailand Using Cross-Country Case Correlation and Weather Features.* ICTC 2026.
